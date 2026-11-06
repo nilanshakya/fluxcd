@@ -10,5 +10,5 @@ spec:
   prune: true
   sourceRef:
     kind: OCIRepository
-    name: demooci
+    name: demooci-source-oci
   targetNamespace: demo

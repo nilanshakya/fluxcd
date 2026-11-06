@@ -2,7 +2,7 @@
 apiVersion: source.toolkit.fluxcd.io/v1
 kind: OCIRepository
 metadata:
-  name: demooci
+  name: demooci-source-oci
   namespace: flux-system
 spec:
   interval: 1m0s
